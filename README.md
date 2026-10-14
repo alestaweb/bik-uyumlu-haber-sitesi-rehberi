@@ -156,6 +156,8 @@ Süreç için öneriler:
 modelleyin ve ilgili orijinal haberle bağlayın. Otomatik "Bu haberde düzeltme
 yayımlanmıştır" rozeti şeffaflığı artırır.
 
+Ayrıntılı uygulama (süreler, güncelleme ve düzeltme notu örnekleri): [Son dakika haberinde güncelleme ve düzeltme notu](docs/son-dakika-guncelleme-ve-duzeltme-notu.md)
+
 ## 9. KVKK ve Kişisel Veri
 
 Haber sitesi; ziyaretçi, üye, yorum yapan kullanıcı ve muhabir verileri işler.
@@ -228,6 +230,12 @@ Yükümlülüklerin güncel ve bağlayıcı hâli için:
 - **RTÜK** — https://www.rtuk.gov.tr
 - **Resmî Gazete** (mevzuat metinleri) — https://www.resmigazete.gov.tr
 - **Mevzuat Bilgi Sistemi** — https://www.mevzuat.gov.tr
+
+---
+
+## Makaleler
+
+- [Son dakika haberinde güncelleme ve düzeltme notu nasıl yazılır?](docs/son-dakika-guncelleme-ve-duzeltme-notu.md)
 
 ---
 
